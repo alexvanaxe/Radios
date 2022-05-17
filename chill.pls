@@ -1,7 +1,8 @@
 [playlist]
 numberofentries=3
-File1=https://streamssl.chilltrax.com:80/
-Title1=(#1 - 228/512) Chilltrax - the world's chillout channel!
+File1=http://larry.torontocast.com:1820
+Title1=(#1 - 444/1000) BEACH CHILL OUT RADIO
+Length1=-1
 File1=http://77.235.42.90:80
 Title1=(#1 - 451/2000) LOUNGE-RADIO.COM - swiss made
 Length1=-1
