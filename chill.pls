@@ -1,6 +1,6 @@
 [playlist]
-numberofentries=3
-File1=http://larry.torontocast.com:1820
-Title1=(#1 - 444/1000) BEACH CHILL OUT RADIO
+numberofentries=1
+File1=http://stream.antenne.de:80/chillout
+Title1=(#1 - 1005/500000) ANTENNE BAYERN Chillout (Germany)
 Length1=-1
 Version=2
